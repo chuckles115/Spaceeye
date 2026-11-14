@@ -196,4 +196,4 @@ This repository serves as the official landing page for SpaceEye. The software i
 **Get the most recent version of SpaceEye today!**
 
 ---
-**Last updated:** 2026-11-13 18:58:44 UTC
+**Last updated:** 2026-11-14 00:13:26 UTC
